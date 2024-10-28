@@ -1,3 +1,4 @@
 django
 djangorestframework
-environs
+pillow
+django-extensions
