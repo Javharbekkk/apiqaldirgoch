@@ -1,4 +1,4 @@
-django
-djangorestframework
-pillow
-django-extensions
+Django==5.1.2
+django-extensions==3.2.3
+djangorestframework==3.15.2
+pillow==11.0.0
